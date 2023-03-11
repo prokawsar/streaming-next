@@ -1,17 +1,15 @@
-# create-svelte
+# portfolio
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
+## Cloning project
 
 ```bash
 # create a new project in the current directory
-npm create svelte@latest
+git clone git remote add origin https://github.com/prokawsar/portfolio.git
+# change directory to root of portfolio
+cd portfolio
+# install dependency
+npm install
 
-# create a new project in my-app
-npm create svelte@latest my-app
 ```
 
 ## Developing
