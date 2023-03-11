@@ -1,12 +1,12 @@
-# portfolio
+# Stream
 
 ## Cloning project
 
 ```bash
 # create a new project in the current directory
-git clone git remote add origin https://github.com/prokawsar/portfolio.git
-# change directory to root of portfolio
-cd portfolio
+git clone git remote add origin https://github.com/prokawsar/streaming-next.git
+# change directory to root of streaming-next
+cd streaming-next
 # install dependency
 npm install
 
